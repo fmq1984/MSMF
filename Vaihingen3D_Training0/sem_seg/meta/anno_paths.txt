@@ -1,0 +1,6 @@
+Area_1/training_1/Annotations
+Area_2/training_2/Annotations
+Area_3/training_3/Annotations
+Area_4/training_4/Annotations
+Area_5/training_5/Annotations
+Area_6/testing_1/Annotations

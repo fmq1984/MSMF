@@ -1,0 +1,9 @@
+Low_veg
+Roof
+Car
+Imp_surface
+Tree
+Shrub
+Powerline
+Hedge
+Facade

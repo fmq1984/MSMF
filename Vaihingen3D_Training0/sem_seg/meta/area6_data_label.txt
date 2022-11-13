@@ -1,0 +1,3 @@
+data/Vaihingen3D_Training/Area_6_testing_1.npy
+data/Vaihingen3D_Training/Area_6_testing_2.npy
+data/Vaihingen3D_Training/Area_6_testing_3.npy
